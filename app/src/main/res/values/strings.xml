@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="peter">Izildo</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">I\'m Izildo mobile developer from Rotterdam.
+    \n\n I love daily coding and studying Japanese.
+    \n\n\ the kind of apps I like to build are games and business apps.
+    \n\n I hope that one day I can work as a mobile developer,
+    \n and my dream finally would be a work as a game programmer.
+    \n\n freelancing and traveling around Japan would be the ideal lifestyle.
+    \n\n I\'m eager to learn, action taker, love games and love the Japanese culture.
+    \n\n I hope that one day I can open my own game studio.
+    \n I look up to people that are good engineers and have something to share.
+
+    </string>
+</resources>
